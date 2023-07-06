@@ -19,4 +19,17 @@ Total 3 (delta 0), reused 0 (delta 0), pack-reused 0
 To https://github.com/Pokroveckiy/softservedata.git
  * [new branch]      main -> main
 branch 'main' set up to track 'origin/main'.
+PS C:\Users\Taras\softservedata> git branch -M develop
+PS C:\Users\Taras\softservedata> git push -u origin develop
+Enumerating objects: 3, done.
+Counting objects: 100% (3/3), done.
+Writing objects: 100% (3/3), 231 bytes | 231.00 KiB/s, done.
+Total 3 (delta 0), reused 0 (delta 0), pack-reused 0
+remote:
+remote: Create a pull request for 'develop' on GitHub by visiting:
+remote:      https://github.com/Pokroveckiy/softservedata/pull/new/develop
+remote:
+To https://github.com/Pokroveckiy/softservedata.git
+ * [new branch]      develop -> develop
+branch 'develop' set up to track 'origin/develop'.
 PS C:\Users\Taras\softservedata>
